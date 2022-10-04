@@ -1275,13 +1275,13 @@
 <details>
 <summary>项目脚本指令</summary>
 
-- 命令行 Prettier 一键格式化，需 [.prettierignore](https://github.com/ant-templater/dev-template-vue2.x/blob/main/.prettierignore)、[.prettierrc](https://github.com/ant-templater/dev-template-vue2.x/blob/main/.prettierrc) 配置
+- 命令行 Prettier 一键格式化，需 [.prettierignore](https://github.com/antd-templater/dev-template-vue2.x/blob/main/.prettierignore)、[.prettierrc](https://github.com/antd-templater/dev-template-vue2.x/blob/main/.prettierrc) 配置
     
   ```bash
     npx prettier --write --loglevel warn "src/**/*.vue"
   ```
 
-- 命令行 ESlint 一键校验并格式化，需 [.eslintignore](https://github.com/ant-templater/dev-template-vue2.x/blob/main/.eslintignore)、[.eslintrc.js](https://github.com/ant-templater/dev-template-vue2.x/blob/main/.eslintrc.js) 配置
+- 命令行 ESlint 一键校验并格式化，需 [.eslintignore](https://github.com/antd-templater/dev-template-vue2.x/blob/main/.eslintignore)、[.eslintrc.js](https://github.com/antd-templater/dev-template-vue2.x/blob/main/.eslintrc.js) 配置
     
   ```bash
     npx eslint --fix --quiet src --ext .vue,.js
