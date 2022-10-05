@@ -1,10 +1,9 @@
 <h1>Vue2.x 开发规范</h1>
 
+<br/>
 
 
-<!-- 项目指南 -->
 <h2># 项目指南</h2>
-
 <details>
 <summary>项目依赖</summary>
 
@@ -186,11 +185,10 @@
 
 </details>
 
+<br/>
 
 
-<!-- 注释规范 -->
 <h2># 注释规范</h2>
-
 <details>
 <summary>文档注释 -- 常用于文件的摘要描述</summary>
 
@@ -318,11 +316,10 @@
 
 </details>
 
+<br/>
 
 
-<!-- Vue2.x 规范 -->
 <h2># Vue 规范</h2>
-
 <details>
 <summary>组件顶级元素的顺序 <sup style="color: #f34d4d;">(必要)</sup></summary>
 
@@ -969,11 +966,10 @@
 
 </details>
 
+<br/>
 
 
-<!-- Git规范 -->
 <h2># Git 规范</h2>
-
 <details>
 <summary>Git 分支设计 <sup style="color: #42b983;">(推荐)</sup></summary>
 
@@ -1098,11 +1094,10 @@
 
 </details>
 
+<br/>
 
 
-<!-- VSCode 开发 -->
-<h2># VSCode 开发</h2>
-
+<h2># VSCode 推荐</h2>
 <details>
 <summary>常用插件推荐</summary>
 
